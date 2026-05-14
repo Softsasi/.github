@@ -17,7 +17,7 @@
 [![Website](https://img.shields.io/badge/softsasi.com-Visit-00F5C4?style=for-the-badge&logo=firefox&logoColor=white)](https://softsasi.com)
 [![Founded](https://img.shields.io/badge/Founded-2022-5F8EFF?style=for-the-badge&logo=calendar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Bangladesh-Kushtia%20%26%20Mymensingh-FF5F7E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Team](https://img.shields.io/badge/Team-10%2B%20Members-FFC107?style=for-the-badge&logo=people&logoColor=black)](#)
+[![Team](https://img.shields.io/badge/Team-25%2B%20Members-FFC107?style=for-the-badge&logo=people&logoColor=black)](#)
 
 </div>
 
